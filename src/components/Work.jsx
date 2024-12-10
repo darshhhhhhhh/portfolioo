@@ -1,5 +1,6 @@
 import React from 'react';
 import { data } from "../data/data.js";
+import job from "../assets/projects/job.png"
 
 
 const Work = () => {
